@@ -1,1 +1,33 @@
-main.css
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#encuentrame{
+	background: #e8ca06;
+	border-radius: 5px;
+	border: none;
+	padding: 6px;
+	margin-top: 1%;
+	margin-left: 15%;
+	color: white;
+	font-weight: bold;
+}
+
+.datos{
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+#ruta{
+	background: #e8ca06;
+	border-radius: 5px;
+	border: none;
+	padding: 6px;
+	margin-top: 1%;
+	margin-left: 15%;
+	color: white;
+	font-weight: bold;
+
+}
